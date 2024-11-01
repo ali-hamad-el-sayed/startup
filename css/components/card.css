@@ -1,0 +1,21 @@
+.card {
+	padding: 20px;
+	display: flex;
+	align-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 6px;
+	color: black;
+}
+
+.card a {
+	color: yellowgreen;
+}
+
+.card h3 {
+	color: yellowgreen;
+}
+
+.card img {
+    width: 100%;
+    max-width: 120px;
+    height: auto; 
